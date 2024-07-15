@@ -1,0 +1,13 @@
+E:\intel\Custom protocol\udp_party\client.cpp;E:\intel\Custom protocol\udp_party\udp_party\x64\Debug\client.obj
+E:\intel\Custom protocol\udp_party\client_session.cpp;E:\intel\Custom protocol\udp_party\udp_party\x64\Debug\client_session.obj
+E:\intel\Custom protocol\udp_party\crypto_wrapper_empty.cpp;E:\intel\Custom protocol\udp_party\udp_party\x64\Debug\crypto_wrapper_empty.obj
+E:\intel\Custom protocol\udp_party\crypto_wrapper_mbedtls.cpp;E:\intel\Custom protocol\udp_party\udp_party\x64\Debug\crypto_wrapper_mbedtls.obj
+E:\intel\Custom protocol\udp_party\crypto_wrapper_openssl.cpp;E:\intel\Custom protocol\udp_party\udp_party\x64\Debug\crypto_wrapper_openssl.obj
+E:\intel\Custom protocol\udp_party\eliza.cpp;E:\intel\Custom protocol\udp_party\udp_party\x64\Debug\eliza.obj
+E:\intel\Custom protocol\udp_party\main.cpp;E:\intel\Custom protocol\udp_party\udp_party\x64\Debug\main.obj
+E:\intel\Custom protocol\udp_party\server.cpp;E:\intel\Custom protocol\udp_party\udp_party\x64\Debug\server.obj
+E:\intel\Custom protocol\udp_party\server_session.cpp;E:\intel\Custom protocol\udp_party\udp_party\x64\Debug\server_session.obj
+E:\intel\Custom protocol\udp_party\session.cpp;E:\intel\Custom protocol\udp_party\udp_party\x64\Debug\session.obj
+E:\intel\Custom protocol\udp_party\sockets.cpp;E:\intel\Custom protocol\udp_party\udp_party\x64\Debug\sockets.obj
+E:\intel\Custom protocol\udp_party\types.cpp;E:\intel\Custom protocol\udp_party\udp_party\x64\Debug\types.obj
+E:\intel\Custom protocol\udp_party\utils.cpp;E:\intel\Custom protocol\udp_party\udp_party\x64\Debug\utils.obj

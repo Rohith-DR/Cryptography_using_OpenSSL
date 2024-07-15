@@ -1,0 +1,8 @@
+﻿  crypto_wrapper_empty.cpp
+  crypto_wrapper_mbedtls.cpp
+  crypto_wrapper_openssl.cpp
+  types.cpp
+  utils.cpp
+  main.cpp
+  Generating Code...
+  crypto_test.vcxproj -> E:\intel\Custom protocol\udp_party\x64\Debug\crypto_test.exe
